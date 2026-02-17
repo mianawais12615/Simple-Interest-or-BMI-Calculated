@@ -1,0 +1,42 @@
+.interestbody{
+    background-color: cadetblue;
+    height: 300px;
+}
+.Principal{
+    height: 25px;
+    width: 150px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 6px;
+    border: none;
+}
+.rate{
+     height: 25px;
+    width: 150px;
+    margin-right: 10px;
+    border-radius: 6px;
+    border: none;
+}
+.Time{
+     height: 25px;
+    width: 150px;
+    margin-right: 10px;
+    border-radius: 6px;
+    border: none;
+}
+.heading{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btn{
+    align-items: center;
+    height: 30px;
+    width: 70px;
+    margin-top: 20px;
+    margin-left: 210px;
+
+}
+.btn:hover{
+    background-color: rgb(63, 82, 85);
+}
